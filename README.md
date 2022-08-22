@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Usman Ali</h1>
 <h3 align="center">A detective for Data Analysis Cases</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaan-aali&label=Profile%20views&color=0e75b6&style=flat" alt="usmaan-aali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaan-aali" alt="usmaan-aali" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://usmaan-aali.github.io](https://usmaan-aali.github.io)
 
 - 💬 Ask me about **Power BI, R, SQL, Excel**
@@ -11,8 +15,12 @@
 <p align="left">
 <a href="https://twitter.com/ussman_aali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ussman_aali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usmaan-aali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usmaan-aali" height="30" width="40" /></a>
-
+<a href="https://www.leetcode.com/usmaan-aali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usmaan-aali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmaan-aali&show_icons=true&locale=en&layout=compact" alt="usmaan-aali" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmaan-aali&show_icons=true&locale=en" alt="usmaan-aali" /></p>
